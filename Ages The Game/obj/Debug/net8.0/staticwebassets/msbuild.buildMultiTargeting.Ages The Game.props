@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ages The Game.props" />
+</Project>

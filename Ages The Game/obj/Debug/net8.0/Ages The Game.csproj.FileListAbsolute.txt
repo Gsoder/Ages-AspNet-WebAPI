@@ -1,0 +1,80 @@
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\appsettings.json
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Ages The Game.exe
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Ages The Game.deps.json
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Ages The Game.runtimeconfig.json
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Ages The Game.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Ages The Game.pdb
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.csproj.AssemblyReference.cache
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.AssemblyInfoInputs.cache
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.AssemblyInfo.cs
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.csproj.CoreCompileInputs.cache
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\staticwebassets\msbuild.Ages The Game.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\staticwebassets\msbuild.build.Ages The Game.props
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ages The Game.props
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ages The Game.props
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\scopedcss\bundle\Ages The Game.styles.css
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.csproj.CopyComplete
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\refint\Ages The Game.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.pdb
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\Ages The Game.genruntimeconfig.cache
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\obj\Debug\net8.0\ref\Ages The Game.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gabza\Desktop\Ages The Game\Ages The Game\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
